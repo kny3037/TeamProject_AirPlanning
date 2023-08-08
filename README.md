@@ -51,7 +51,7 @@
 <img src="src/main/resources/images/ERD.png"/>
 
 ### 💻 Swagger
-http://ec2-13-124-105-0.ap-northeast-2.compute.amazonaws.com:8081/swagger-ui/
+http://ec2-13-125-246-229.ap-northeast-2.compute.amazonaws.com:8081/swagger-ui/
 
 ### ☑️ 체크리스트
 ✅ Gitlab CI/CD 구축 및 Swagger 추가
