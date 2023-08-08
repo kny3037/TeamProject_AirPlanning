@@ -9,7 +9,8 @@
 
 [📌 서비스 UI](http://ec2-13-125-246-229.ap-northeast-2.compute.amazonaws.com:8081/) <br>
 [📌 노션 프로젝트 페이지](https://descriptive-soda-58f.notion.site/4-Air-Planning-99a0eaa0d3584b969cffc3128a83e0a5) <br>
-[📌 Swagger-ui](http://ec2-13-125-246-229.ap-northeast-2.compute.amazonaws.com:8081/swagger-ui/)
+[📌 Swagger-ui](http://ec2-13-125-246-229.ap-northeast-2.compute.amazonaws.com:8081/swagger-ui/)<br>
+- 테스트 로그인 계정 : skdlfma123,  비밀번호 : 1234
 
 ## Index
 - [프로젝트의 목적 및 용도](목적과용도)
